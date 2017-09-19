@@ -1,3 +1,6 @@
+![logo](https://cloud.githubusercontent.com/assets/6446570/24594169/4f47b098-1865-11e7-94cd-945db0434dc0.png)
+
+
 godiva [![GoDoc](http://godoc.org/github.com/mappymappy/godiva/lib/godiva?status.svg)](http://godoc.org/github.com/mappymappy/godiva/lib/godiva)
 ======
 
